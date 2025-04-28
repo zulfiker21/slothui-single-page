@@ -110,7 +110,6 @@ a:hover {
 .sign-up {
   margin-right: 5px;
 }
-
 /* header end */
 
 /* banner section */
@@ -155,7 +154,6 @@ a:hover {
   padding: 50px 0;
   gap: 10px;
 }
-
 /* banner end */
 
 
@@ -216,7 +214,6 @@ a:hover {
   border-right: 1px solid #CBD5E1;
   padding: 0 30px;
 }
-
 /* works end */
 
 /* company-logos start */
@@ -231,7 +228,6 @@ a:hover {
   gap: 35px;
   padding: 70px 20px;
 }
-
 /* company-logos end */
 
 /* our office section start */
@@ -271,7 +267,6 @@ a:hover {
   font-weight: 400;
   color: #1E293B;
 }
-
 /* our office end */
 
 .max-w {
@@ -356,7 +351,6 @@ a:hover {
 .accordion-item.active .accordion-body {
   display: block;
 }
-
 /* faq end */
 
 /* feature start */
@@ -395,7 +389,6 @@ a:hover {
   padding-bottom: 36px;
   max-width: 581px;
 }
-
 /* feature end */
 
 /* download start */
@@ -435,12 +428,12 @@ a:hover {
   background-color: #4F46E5;
   color: white;
 }
-
 /* download end */
 
 /* testimonial start */
 .testimonial-section {
   padding: 40px 0;
+  background-color: #F8FAFC;
 }
 
 .testimonial-bottom {
@@ -488,7 +481,6 @@ a:hover {
   color: #475569;
   padding-top: 4px;
 }
-
 /* testimonial end */
 
 /* tabs start */
@@ -545,8 +537,8 @@ a:hover {
 .tab-image.active {
   display: block;
 }
-
 /* tabs end */
+
 /* footer start */
 .footer-section {
   background-color: #F8FAFC;
@@ -623,7 +615,6 @@ a:hover {
   z-index: 9999;
   background-color: #CBD5E1;
 }
-
 /* footer end */
 
 /* download responsive */
