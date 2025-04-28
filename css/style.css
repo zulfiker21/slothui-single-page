@@ -261,20 +261,6 @@ gap: 10px;
 }
 /* our office end */
 
-.arrow.img {
-  text-align: center;
-  width: 48px;
-  height: 48px;
-  border-radius: 123px;
-  border: 1px solid #CBD5E1;
-  line-height: 37px;
-  position: fixed;
-  bottom: 36px;
-  left: 852px;
-  z-index: 9999;
-  background-color: #CBD5E1;
-}
-
 .max-w {
   max-width: 800px;
   margin: auto;
@@ -442,7 +428,6 @@ gap: 10px;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 40px;
-  padding: 22px;
 }
 .testimonial-top {
   padding-bottom: 22px;
@@ -587,6 +572,19 @@ gap: 10px;
   color: #4F46E5;
   text-decoration: underline;
 }
+.arrow.img {
+  text-align: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 123px;
+  border: 1px solid #CBD5E1;
+  line-height: 44px;
+  position: fixed;
+  bottom: 36px;
+  left: 852px;
+  z-index: 9999;
+  background-color: #CBD5E1;
+}
 
 /* footer end */
 
@@ -677,7 +675,7 @@ nav li {
 
 /* tabs responsive */
 @media (min-width: 300px) and (max-width: 400px) {
-  .company-logos {
+  .company-logos-images {
     gap: 0px!important;
 }
 }
