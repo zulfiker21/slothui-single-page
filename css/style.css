@@ -656,10 +656,11 @@ nav li {
 }
 
 /* 768 to 991 */
-@media (min-width: 768) and (max-width: 991px) {
-  .arrow.img {
-    bottom: 80px;
-    left: 433px!important;
+@media (min-width: 768px) and (max-width: 991px) {
+.arrow.img {
+  left: 629px!important;
+  bottom: 36px!important;
+  position: fixed!important;
 }
 .card-container {
   grid-template-columns: repeat(3, 1fr);
